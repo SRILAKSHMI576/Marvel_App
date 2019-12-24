@@ -1,0 +1,38 @@
+.bg {
+  background-image: linear-gradient(44.59deg, #d5e2e9 0%, #eaeef1 100%);
+  width: 90%;
+  height: 410px;
+}
+.info div {
+  position: absolute;
+}
+
+.group {
+  background-color: #ffffff;
+  box-shadow: 0 8px 19px 0 rgba(0, 0, 0, 0.05);
+  width: 700px;
+  height: 510px;
+}
+.info {
+  width: 1130px;
+  margin-top: 115px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.Group {
+  z-index: 1;
+  left: 250px;
+  top: 670px;
+}
+
+.heading {
+  position: absolute;
+  color: #31373d;
+  font-family: AktivGrotesk;
+  font-size: 24px;
+  font-weight: 700;
+  line-height: 34px;
+  left: 470px;
+  top: 560px;
+}
