@@ -9,7 +9,7 @@ function Product() {
           Loved by users, <br />
           recommended by experts
         </h3>
-        <p className="lorem-ipsum-is-simpl">
+        <p className="lorem-ipsum">
           Lorem Ipsum is simply dummy text of the printing and typesetting
           industry. <br />
           Lorem Ipsum has been the industry's standard dummy text ever since the
