@@ -30,3 +30,91 @@
   margin-left: 380px;
   margin-top: 40px;
 }
+
+.rectangle-copy-17 {
+  background-color: #ffffff;
+  box-shadow: 0 2px 5px 0 rgba(113, 100, 100, 0.3);
+  width: 200px;
+  height: 170px;
+  text-align: center;
+  padding-top: 50px;
+  color: #31373d;
+  font-family: AktivGrotesk;
+  font-size: 20px;
+  font-weight: 700;
+  line-height: 28px;
+}
+
+.boxes {
+  display: flex;
+  margin-left: 320px;
+  margin-top: 60px;
+}
+
+.rectangle-copy-19 {
+  background-color: #ffffff;
+  box-shadow: 0 8px 19px 0 rgba(0, 0, 0, 0.16);
+  width: 214px;
+  height: 190px;
+  border: grey;
+  text-align: center;
+  padding-top: 50px;
+  color: #31373d;
+  font-family: AktivGrotesk;
+  font-size: 20px;
+  font-weight: 700;
+  line-height: 28px;
+}
+
+.dollar-copy {
+  padding-top: 30px;
+  font-size: 40px;
+}
+
+.dollar-copy-savings {
+  color: #0099ff;
+  padding-top: 30px;
+  font-size: 40px;
+}
+
+.body-para {
+  color: #31373d;
+  font-family: AktivGrotesk;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 22px;
+  width: 156px;
+  text-align: center;
+  padding-left: 30px;
+}
+
+.body-copy-37 {
+  color: #8b8e91;
+  font-family: AktivGrotesk;
+  font-size: 14px;
+  font-style: italic;
+  font-weight: 400;
+  line-height: 22px;
+  width: 78px;
+  text-align: center;
+  padding-left: 50px;
+}
+.toggle {
+  border-radius: 7px;
+  opacity: 0.6388346354166666;
+  width: 44px;
+  height: 14px;
+  display: flex;
+  justify-content: space-between;
+  margin-top: 30px;
+  margin-left: 40%;
+}
+
+.annual {
+  margin-right: 20px;
+  font-weight: bold;
+}
+.monthly {
+  margin-left: 20px;
+  font-weight: bold;
+}
