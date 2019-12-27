@@ -48,7 +48,7 @@
 .boxes {
   display: flex;
   margin-left: 320px;
-  margin-top: 60px;
+  margin-top: 20px;
 }
 
 .rectangle-copy-19 {
@@ -102,12 +102,13 @@
 .toggle {
   border-radius: 7px;
   opacity: 0.6388346354166666;
-  width: 44px;
-  height: 14px;
+  margin: auto;
+  height: 50px;
+  width: 200px;
   display: flex;
   justify-content: space-between;
   margin-top: 30px;
-  margin-left: 40%;
+  margin-left: auto;
 }
 
 .annual {
@@ -117,4 +118,54 @@
 .monthly {
   margin-left: 20px;
   font-weight: bold;
+}
+
+@media only screen and (min-width: 320px) and (max-width: 479px) {
+  .buttons {
+    margin-left: 40px;
+    margin-top: 30px;
+  }
+
+  .boxes {
+    width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+    display: grid;
+    grid-template-columns: auto auto;
+  }
+  .rectangle-copy-17 {
+    height: 150px;
+    padding-top: 30px;
+    width: 150px;
+  }
+  .body-para {
+    width: 70px;
+  }
+
+  .rectangle-copy-19 {
+    width: 150px;
+    height: 150px;
+    padding-top: 30px;
+  }
+  .info {
+    margin: 0px;
+    margin-right: 0px;
+  }
+  .bg,
+  img {
+    width: 98%;
+  }
+
+  .Group {
+    left: 5%;
+  }
+
+  .Group img {
+    width: 95%;
+    height: 400px;
+  }
+
+  .heading {
+    left: 30px;
+  }
 }

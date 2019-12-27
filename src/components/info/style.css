@@ -37,3 +37,10 @@
   left: 470px;
   top: 560px;
 }
+
+@media only screen and (min-width: 320px) and (max-width: 479px) {
+  .info {
+    margin-top: 50px;
+    width: 50%;
+  }
+}
