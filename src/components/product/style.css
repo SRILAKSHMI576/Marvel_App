@@ -1,0 +1,37 @@
+.loved-by-users-reco-copy-2 {
+  color: #31373d;
+  font-family: AktivGrotesk;
+  font-size: 30px;
+  font-weight: 700;
+  line-height: 34px;
+  text-align: left;
+}
+
+.lorem-ipsum-is-simpl {
+  color: #8b8e91;
+  font-family: AktivGrotesk;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 22px;
+  width: 100%;
+  text-align: center;
+}
+.shape {
+  background-color: #0099ff;
+  border-radius: 3px;
+  width: 220px;
+  height: 48px;
+  border: none;
+  color: white;
+  font-weight: bold;
+}
+
+.item {
+  margin-left: 190px;
+  margin-top: 130px;
+  display: flex;
+}
+
+.group4 {
+  margin-left: 120px;
+}

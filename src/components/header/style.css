@@ -40,9 +40,30 @@
 
 .header {
   margin-left: 190px;
-  margin-top: 150px;
+  margin-top: 130px;
 }
 @media only screen and (min-width: 320px) and (max-width: 479px) {
+  .header {
+    padding: 20px;
+    margin-left: 0px;
+    margin-top: 0px;
+  }
+
+  .header h1 {
+    width: 100%;
+    font-size: 40px;
+  }
+
+  .header p {
+    width: 100%;
+  }
+  .secondary {
+    margin: 0px;
+    margin-top: 10px;
+  }
+}
+
+@media only screen and (min-width: 480px) and (max-width: 767px) {
   .header {
     padding: 20px;
     margin-left: 0px;
