@@ -27,8 +27,10 @@
 }
 
 .buttons {
-  margin-left: 380px;
   margin-top: 40px;
+  width: 500px;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .rectangle-copy-17 {
@@ -47,8 +49,10 @@
 
 .boxes {
   display: flex;
-  margin-left: 320px;
+  margin-left: auto;
+  margin-right: auto;
   margin-top: 20px;
+  width: 600px;
 }
 
 .rectangle-copy-19 {
@@ -170,7 +174,7 @@
   }
 }
 
-@media only screen and (min-width: 480px) {
+@media only screen and (min-width: 480px) and (max-width: 600px) {
   .boxes {
     width: 450px;
     margin-left: auto;

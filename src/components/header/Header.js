@@ -4,10 +4,10 @@ import "./style.css";
 function Header() {
   return (
     <div className="header">
-      {/* <h1>
+      <h1>
         Looking for a <br />
         lollipop alternative?
-      </h1> */}
+      </h1>
       <p>
         Lorem Ipsum is simply dummy text of the printing and typesetting
         industry.
