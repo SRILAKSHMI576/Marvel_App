@@ -44,3 +44,21 @@
     width: 50%;
   }
 }
+
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+  .heading {
+    left: 30%;
+  }
+  .group {
+    width: 95%;
+  }
+  .Group {
+    left: 5%;
+  }
+  .bg {
+    width: 100%;
+  }
+  .BG {
+    width: 97%;
+  }
+}
