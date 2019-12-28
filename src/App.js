@@ -6,7 +6,7 @@ import Product from "./components/product/product";
 
 function App() {
   return (
-    <div className="App">
+    <div>
       <Header />
       <InfoComponent />
       <PriceCalculator />
