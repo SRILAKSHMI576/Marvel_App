@@ -11,7 +11,6 @@ function App() {
       <InfoComponent />
       <PriceCalculator />
       <Product />
-      <button>button</button>
     </div>
   );
 }
